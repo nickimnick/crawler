@@ -8,7 +8,7 @@ a{background:#09C; padding:0 7px; display:inline-block; height:30px; line-height
 
 #container{padding-top:30px; width:100%; text-align:left;}
 #container .form{display:none; padding:20px 50px; background:#f5f5f5;}
-#container .form ul{width:820px; margin:0 auto;}
+#container .form ul{width:1000px; margin:0 auto;}
 #container .form li{margin-bottom:10px; width:200px; float:left;}
 #container.first .form{display:block;}
 #container .result{padding:0 50px;}
